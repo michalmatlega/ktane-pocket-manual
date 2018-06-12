@@ -8,3 +8,6 @@ This version is dedicated for experienced players.
 * Colours!
 
 # Credits
+* Cypher 
+* Xgpmcnp
+* Murai
