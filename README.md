@@ -6,3 +6,5 @@ This version is dedicated for experienced players.
 * Removed unnecesary pages
 * Simplified instructions
 * Colours!
+
+# Credits
