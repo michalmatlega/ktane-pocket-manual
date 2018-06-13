@@ -3,11 +3,11 @@ Enhanced version of Bomb Defusal Manual for Keep Talking And Nobody Explodes gam
 This version is dedicated for experienced players.
 
 # Features
-* Removed unnecesary pages
-* Simplified instructions
-* Colours!
+* Compacted to just 6 pages
+* Simplified
+* IN COLOR!
 
 # Credits
 * Cypher 
 * Xgpmcnp
-* Murai
+* The Fizzynator
