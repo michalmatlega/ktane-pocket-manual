@@ -1,13 +1,15 @@
-# ktane-enhanced-manual
-Enhanced version of Bomb Defusal Manual for Keep Talking And Nobody Explodes game.
+# KTANE Pocket Manual
+Pocket version of Bomb Defusal Manual for Keep Talking And Nobody Explodes game.
 This version is dedicated for experienced players.
 
 # Features
-* Compacted to just 6 pages
+* Just 3 pages!
 * Simplified
+* Alphabetized
 * IN COLOR!
 
 # Credits
 * Cypher 
 * Xgpmcnp
 * The Fizzynator
+* Daido
