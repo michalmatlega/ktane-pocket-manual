@@ -9,7 +9,7 @@ This version is dedicated for experienced players.
 * IN COLOR!
 
 # Credits
-* Cypher 
-* Xgpmcnp
-* The Fizzynator
-* Daido
+* Cypher - Simon Says, Password algorithm
+* Xgpmcnp - Keypads tips
+* The Fizzynator - Complicated Wires
+* Daido - Knobs tips
